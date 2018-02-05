@@ -1,0 +1,14 @@
+{
+  "name": "hamphot",
+  "version": "1.0.0",
+  "description": "Make photos of your pet :)",
+  "main": "index.js",
+  "repository": "https://github.com/avengerweb/hamphot",
+  "author": "AvengerWeb <avengerweb@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "node-telegram-bot-api": "^0.30.0",
+    "node-webcam": "^0.4.3"
+  }
+}

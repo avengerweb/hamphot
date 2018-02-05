@@ -1,0 +1,9 @@
+{
+  "interval": 1800000,
+  "notifiers": {
+    "telegram": {
+      "enabled": true,
+      "token": "YOUR_TELEGRAM_TOKEN"
+    }
+  }
+}
